@@ -1,0 +1,12 @@
+*.idea
+*.iml
+CommerceSystem/out
+**/error.txt
+**/errors.txt
+CommerceSystem/errors.txt
+**/out
+*.txt
+out
+errors.txtCommerceSystem/out/production
+Client/node_modules
+*.class
